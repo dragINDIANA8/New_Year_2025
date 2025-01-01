@@ -27,7 +27,6 @@ As we move forward, I hope this year brings you all the happiness, success, and 
 Chl chl bsdk zyada khush mtt ho ab....bss muu mtt fulaya kr merese .... 🥺 babuuuuuuuuuu madaltod`,
             images: ['rohit1.jpg', 'rohit2.jpg', 'rohit3.jpg']
         },
-        // New PIN 3344 added
         '24052004': {
             message: `Happy New Year, Kanduu Don🧸!  
 
@@ -37,6 +36,24 @@ You’ve been more than just a friend—you’ve been a guide, a cheerleader, an
 
 Thank you for being the amazing person you are, Harshiee. Here’s to another year of laughter, growth, and countless unforgettable moments. Wishing you all the happiness, success, and love that your heart desires. Let’s make 2025 truly magical ! 🎊❣`,
             images: ['kandu2.jpg', 'kandu1.jpg', 'kandu3.jpg']
+        },
+        '28052005': {
+            message: `Hey broooo!!!!!
+
+Happy New Year! 🎉 Hope you're ready for an awesome year! I know you sometimes get caught up in your head, but try to remember that you're capable of amazing things. Don't let those worries hold you back from chasing your dreams.
+
+And yah thanks for capturing my cool pics... You have such a unique eye for capturing moments, and I always love seeing what you create. Keep that passion alive and let your creativity shine!
+
+You're an amazing friend, always loyal and supportive. I cherish our friendship and I'm so grateful to have you in my life. Now go out there and make this year the best one yet! You've got this ! 💪`,
+            images: ['abhi1.jpg', 'abhi2.jpg', 'abhi3.jpg']
+        },
+        '08072004': {
+            message: `Hey Aastha, Happy New Year! 🎉 I hope this year brings you an abundance of joy, success, and unforgettable memories. I know the MBBS journey can be incredibly challenging, but remember to cherish every moment and celebrate your accomplishments, big or small. You're incredibly strong and resilient, and I have no doubt that you'll overcome any obstacle that comes your way.
+
+I'm so proud of you for pursuing your dreams and working so hard towards your goals. Keep that fire burning within you and never give up on your aspirations. You're an inspiration to me, and I admire your dedication and perseverance.
+
+Wishing you a year filled with laughter, love, and the strength to conquer any challenges that come your way. May this year be your most successful yet! Happy New Year, Aastha! 🎊`,
+            images: ['dr1.jpg', 'dr2.jpg', 'dr3.jpg']
         }
     };
 
@@ -68,4 +85,4 @@ window.onload = function() {
             imageContainer.appendChild(img);
         });
     }
-}
+};
